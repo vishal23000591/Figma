@@ -1,4 +1,4 @@
-![web 2](https://github.com/vishal23000591/Figma/assets/147139719/4767e8dd-19c9-499b-bf97-e8bfc9260d69)# Ex09 Event Registration Web Application
+# Ex09 Event Registration Web Application
 ## Date:
 
 ## AIM:
